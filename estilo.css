@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secoes1{
+    color: black;
+}
+.secoes{
+    color: green;
+    text-decoration: none;
+}
+.adventure{
+    background-color: #585858;
+}
+.titleadv{
+    background-color: yellow;
+}
+.drama{
+    background-color: #585858;
+}
+.titledrama {
+    
+    background-color: orange;
+}
